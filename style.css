@@ -3,3 +3,45 @@ body
     background: #ccc;
 }
 
+.container
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+/* stripe */
+.stripe
+{
+    width: 500px;
+    height: 100px;
+}
+
+/* saffron */
+#saffron
+{
+    background-color: #ff9933;
+}
+
+/* white */
+#white
+{
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* green */
+#green
+{
+    background: #138808;
+}
+
+/* chakra */
+.ashoka-chakra
+{
+    height: 40px;
+    width: 40px;
+}
+
