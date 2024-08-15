@@ -72,3 +72,9 @@ a:link, a:visited
     text-decoration: none;
     display: inline-block;
 }
+
+/* hover effect */
+a:hover, a:active 
+{
+    background-color: #138808;
+}
