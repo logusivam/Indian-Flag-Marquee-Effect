@@ -45,3 +45,30 @@ body
     width: 40px;
 }
 
+/* message */
+.message
+{
+    text-align: center;
+}
+
+.message span
+{
+    color: #000000;
+}
+
+/* marquee text */
+marquee
+{
+    padding: 20px;
+}
+
+/* link text */
+a:link, a:visited
+{
+    background-color: #ff9933;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
